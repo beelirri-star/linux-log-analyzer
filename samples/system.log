@@ -1,0 +1,7 @@
+Nov 13 10:15:01 server01 sshd[1024]: Failed password for root from 192.168.1.20 port 54210 ssh2
+Nov 13 10:16:10 server01 nginx[2040]: ERROR: upstream connection failed
+Nov 13 10:17:00 server01 systemd[1]: WARNING: service restart requested
+Nov 13 10:18:00 server01 nginx[2040]: INFO: request processed successfully
+Nov 13 10:19:00 server01 kernel: CRITICAL: memory allocation failure
+Nov 13 10:20:00 server01 nginx[2040]: ERROR: connection timeout
+Nov 13 10:21:00 server01 sshd[1024]: Accepted password for bee from 192.168.1.30 port 54211 ssh2
